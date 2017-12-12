@@ -2,3 +2,10 @@ Q: What happens when you initialize a git repository and why do you need to?
 A: Git creates metadata files for tracking the history (changes) of the repository,
    i.e the files will be managed by the version control system.
    Allows safely managing changes (tracking) i.e controlling versions.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: Staging area is part of a git repository while a working directory is not necessarily a git repository.
+
+   Staging area is part of the git repository while the repository includes metadata for tracking files and the staging area amongst other things.
+
