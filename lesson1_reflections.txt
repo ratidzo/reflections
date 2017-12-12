@@ -1,0 +1,2 @@
+git init command is used to initialize a git repository
+

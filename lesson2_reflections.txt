@@ -1,0 +1,4 @@
+Q: What happens when you initialize a git repository and why do you need to?
+A: Git creates metadata files for tracking the history (changes) of the repository,
+   i.e the files will be managed by the version control system.
+   Allows safely managing changes (tracking) i.e controlling versions.
