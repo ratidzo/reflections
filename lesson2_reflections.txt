@@ -8,4 +8,6 @@ Q: How is the staging area different from the working directory and the reposito
 A: Staging area is part of a git repository while a working directory is not necessarily a git repository.
 
    Staging area is part of the git repository while the repository includes metadata for tracking files and the staging area amongst other things.
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: Using git diff --staged to compare the staging area to the most recent commit makes it possible to see the changes before they are commited. In this way, a commit can be made after the change qualifies as logical.
 
