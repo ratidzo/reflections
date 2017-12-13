@@ -11,3 +11,7 @@ A: Staging area is part of a git repository while a working directory is not nec
 Q: How can you use the staging area to make sure you have one commit per logical change?
 A: Using git diff --staged to compare the staging area to the most recent commit makes it possible to see the changes before they are commited. In this way, a commit can be made after the change qualifies as logical.
 
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: When experimenting with new features or making a new version of your code without 
+   affecting the current one.
