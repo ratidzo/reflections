@@ -19,3 +19,7 @@ A: When experimenting with new features or making a new version of your code wit
 Q: How do the diagrams help you visualize the branch structure?
 
 A: Visualize the branches and the commits made in each branch
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: merging two branches creates one branch with the commits from both branches. 
